@@ -1,2 +1,3 @@
 hola
 como estas
+Desvincular en GitHub es re útil para mantener todo organizado y seguro. Ayuda a controlar quién tiene acceso y a evitar problemas.
